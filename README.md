@@ -31,7 +31,7 @@ Clone:
   
 Recording Game:
 ===============
-![](Record.gif)
+![](Recording.gif)
 
 License:
 ========		 
