@@ -7,7 +7,7 @@ Table of contents:
 <!--ts-->
    * [Technologies used and cocoapods.](#technologies-used-and-cocoapods)
    * [Prerequisites](#prerequisites)
-   * [Installation](#clone)
+   * [Clone](#clone)
    * [Recording Game](#recording-game)
    * [License](#license)
 <!--te-->
@@ -17,7 +17,6 @@ Technologies used and Cocoapods:
 
   - Swift 4.0 and Xcode 9.0 are used to implement this project.
   - SpriteKit
-  - GameplayKit
   
 Prerequisites:
 =============
