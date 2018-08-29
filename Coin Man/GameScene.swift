@@ -7,7 +7,6 @@
 //
 
 import SpriteKit
-import GameplayKit
 
 class GameScene: SKScene, SKPhysicsContactDelegate {
     
@@ -18,7 +17,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     private var scoreLabel : SKLabelNode?
     private var yourScoreLabel : SKLabelNode?
     private var finalScoreLabel : SKLabelNode?
-    
+    var speedObject = 4
     var score = 0
     
     let coinManCategory : UInt32 = 0x1 << 1
