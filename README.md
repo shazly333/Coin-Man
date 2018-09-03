@@ -30,7 +30,7 @@ Clone:
   
 Recording Game:
 ===============
-![](ved.mp4)
+![](Recording)
 
 License:
 ========		 
